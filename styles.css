@@ -1,7 +1,28 @@
 #navbar_logo {
-    height: 40px; 
+    height: 60px; 
+}
+
+#navbar_logof {
+    height: 100px; 
+    margin-top: 25px;
+    margin-left: 15px;
 }
 
 .navbar{
     border-radius: 5px;
+    background-color: #ffcbc7;
+}
+
+footer{
+    background-color: rgba(255, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    }
+
+.container_h {
+    
 }
