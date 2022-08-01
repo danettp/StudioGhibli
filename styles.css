@@ -2,10 +2,11 @@ body{
     background-color: #FFCED4;
     background-image: url("images/background.jpg");
     padding: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container{
-    background-color: rgba(255, 255, 255, 0.68);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 10px;
     padding: 5px;
 }
@@ -23,12 +24,28 @@ body{
 .navbar {
     border-radius: 5px;
     background-color: #FFCED4;
+    margin-bottom: 10px;
 }
 
 footer {
     background-color: #FFCED4;
     border-radius: 5px;
 }
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+
+  img{
+    float: right;
+    padding: 5px;
+    height: 400px;
+    margin-top: 12px;
+  }
 
   
 
