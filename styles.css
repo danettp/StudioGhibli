@@ -40,11 +40,10 @@ footer {
     border: 3px solid #73AD21;
   }
 
-  .img1{
+.img1{
     float: right;
-    padding: 5px;
-    height: 400px;
-    margin-top: 12px;
+    max-width: 100%;
+    height: auto;
   }
 
 #footer_logo{
