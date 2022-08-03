@@ -6,7 +6,7 @@ body{
 }
 
 .container{
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.93);
     border-radius: 10px;
     padding: 5px;
 }
@@ -79,22 +79,18 @@ footer {
     border: 3px solid pink;
     border-radius: 10px;
     padding: 10px;
-    margin-top: -5px;
+    margin-top: 5px;
 }
 
-.btn{
-    border-radius: 10px;
-    border: 3px solid #FFCED4;
-    background-color: rgb(150, 212, 150);
-    margin-bottom: 5px;
+.movie_thumbnail{
+    margin-left: 85px;
+    margin-top: 10px;
 }
 
-.btn-cont{
-    position: relative;
-    width: 75%;
+.movie_title{
+    margin-left: 120px;
 }
 
-.button img{
-    width:100%;
-    height: auto;
+.caption{
+    margin-left: 90px;
 }
