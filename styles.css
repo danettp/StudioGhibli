@@ -81,3 +81,20 @@ footer {
     padding: 10px;
     margin-top: -5px;
 }
+
+.btn{
+    border-radius: 10px;
+    border: 3px solid #FFCED4;
+    background-color: rgb(150, 212, 150);
+    margin-bottom: 5px;
+}
+
+.btn-cont{
+    position: relative;
+    width: 75%;
+}
+
+.button img{
+    width:100%;
+    height: auto;
+}
