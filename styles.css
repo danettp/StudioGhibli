@@ -80,11 +80,13 @@ footer {
     border-radius: 10px;
     padding: 10px;
     margin-top: 5px;
+    margin-bottom: 5px;
 }
 
-.movie_thumbnail{
+.thumbnail{
     margin-left: 85px;
     margin-top: 10px;
+    padding: 5px;
 }
 
 .movie_title{
@@ -93,4 +95,9 @@ footer {
 
 .caption{
     margin-left: 90px;
+}
+
+.title{
+    margin-left: 80px; 
+    text-align: center;
 }
