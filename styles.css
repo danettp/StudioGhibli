@@ -27,6 +27,18 @@ body{
     margin-bottom: 10px;
 }
 
+.nav-item{
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    padding: 10px 10;
+    margin: 10 15px;
+}
+
+.nav-item:hover{
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+}
+
 footer {
     background-color: #FFCED4;
     border-radius: 5px;
