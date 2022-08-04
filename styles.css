@@ -35,8 +35,8 @@ body{
 }
 
 .nav-item:hover{
-    border-top: 4px solid white;
-    border-bottom: 4px solid white;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
 }
 
 footer {
