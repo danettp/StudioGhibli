@@ -30,8 +30,6 @@ body{
 .nav-item{
     border-top: 4px solid transparent;
     border-bottom: 4px solid transparent;
-    padding: 10px 10;
-    margin: 10 15px;
 }
 
 .nav-item:hover{
@@ -42,6 +40,12 @@ body{
 footer {
     background-color: #FFCED4;
     border-radius: 5px;
+}
+
+.video{
+    border: 0;
+    width:560px; 
+    height: 315px;
 }
 
 .fixed {
