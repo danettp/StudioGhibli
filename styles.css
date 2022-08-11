@@ -6,7 +6,7 @@ body{
 }
 
 .container{
-    background-color: rgba(255, 255, 255, 0.93);
+    background-color: rgba(255, 255, 255, 0.95);
     border-radius: 10px;
     padding: 5px;
 }
@@ -43,18 +43,9 @@ footer {
 }
 
 .video{
-    border: 0;
-    width:560px; 
-    height: 315px;
+    max-width: 100%; 
+    height: auto;
 }
-
-.fixed {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 300px;
-    border: 3px solid #73AD21;
-  }
 
 .img1{
     float: right;
@@ -63,7 +54,7 @@ footer {
     max-width: 100%;
     height: auto;
     padding: 5px;
-  }
+    }
 
 .img2{
     float: left;
@@ -104,10 +95,12 @@ footer {
     margin-left: 85px;
     margin-top: 10px;
     padding: 5px;
+    max-width: 75%;
+    height: auto;
 }
 
 .movie_title{
-    margin-left: 120px;
+    margin-left: 125px;
 }
 
 .caption{
